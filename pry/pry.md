@@ -89,16 +89,3 @@ play with `next` and `step`
 jesse@boltmade.com
 
 boltmade.com
-
----
-
-TODO:
-
-- wtf?
-- _ (last output)
-- edit
-- \_file\_
-- \_out\_
-- \_in\_
-- play
-- whereami
